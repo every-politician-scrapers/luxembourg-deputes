@@ -1,78 +1,78 @@
-uuid,name,lastname,firstname,group,dob,birthplace,seat
-e91b6cc6-3e4d-4b88-adfc-448ef4077a11,Fernand Etgen,Etgen,Fernand,DP,,"",0
-b891e5e6-f691-4356-bb7a-a081822bf658,Jeff Engelen,Engelen,Jeff,ADR,,"",1
-d22dce2f-74f9-46fa-bd68-9bfda2341a44,Fred Keup,Keup,Fred,ADR,,"",2
-1176aa74-e97d-4605-bbc8-e06f45ac1263,Paul Galles,Galles,Paul,CSV,,"",3
-003db1c3-5579-403e-b31b-39d4a99c33a7,Diane Adehm,Adehm,Diane,CSV,1970-09-13,Ettelbruck,4
-4009819c-f380-456a-b5d1-05f8a88a3aa9,Emile Eicher,Eicher,Emile,CSV,1955-06-30,Clervaux,5
-7d10a6e1-3d8b-4bf6-9a1e-4f851a2a94fc,Viviane Reding,Reding,Viviane,CSV,,"",6
-01355edf-9d51-4d5f-83e3-7a91e737ccf0,Françoise Hetto-Gaasch,Hetto-Gaasch,Françoise,CSV,1960-05-21,Dudelange,7
-9b963db4-77a9-4424-9de8-12fd1ae789ac,Octavie Modert,Modert,Octavie,CSV,1966-11-15,Grevenmacher,8
-86f5ceb2-b63c-4fe5-b6d4-725ae32e9631,Aly Kaes,Kaes,Aly,CSV,1955-04-04,Diekirch,9
-31a996f1-bf01-453d-abcf-cb6ccc0a8fed,Félix Eischen,Eischen,Félix,CSV,1966-02-05,Luxembourg,10
-3945714c-4f6f-4332-92d2-4ea108fdd1eb,Marc Lies,Lies,Marc,CSV,1968-12-30,Echternach,11
-0cd81592-56e5-4c50-ad03-41c8e0c7b179,Serge Wilmes,Wilmes,Serge,CSV,1982-05-06,Luxembourg,12
-7029477e-b348-497e-93bc-3922f3119ea3,Georges Mischo,Mischo,Georges,CSV,,"",13
-f86cd469-b3e0-4d9c-b51a-aa813163b49f,Myriam Cecchetti,Cecchetti,Myriam,DÉI LÉNK,1966-03-23,Esch-sur-Alzette,14
-844dc4ba-88af-4904-826b-6679c209d963,Nathalie Oberweis,Oberweis,Nathalie,DÉI LÉNK,1983-02-20,Luxembourg,15
-a5822008-b762-4228-ab23-ecd365a848af,Fernand Kartheiser,Kartheiser,Fernand,ADR,1959-09-30,Luxembourg,17
-59f6b8a5-08ba-45eb-86e4-db93f6998b80,Roy Reding,Reding,Roy,ADR,1965-07-17,Luxembourg,18
-cfbc3034-7695-4a32-8d62-b74482c108ff,Claude Wiseler,Wiseler,Claude,CSV,1960-01-30,Luxembourg,19
-a9842785-fe2b-4203-aaf1-3d7a62c7edf8,Laurent Mosar,Mosar,Laurent,CSV,1958-02-08,Luxembourg,20
-a5e10561-7d18-41f8-9c68-6668f60a817e,Michel Wolter,Wolter,Michel,CSV,1962-09-13,Luxembourg,21
-04c85412-9f8c-4547-899c-4d75d1a39f6b,Gilles Roth,Roth,Gilles,CSV,1967-03-01,Luxembourg,22
-34c3571c-db36-44f0-98f3-abac62763d99,Martine Hansen,Hansen,Martine,CSV,1965-12-10,Wiltz,23
-41888d71-80ce-4d3e-b5b8-06915a25cc6b,Léon Gloden,Gloden,Léon,CSV,1972-12-09,Ettelbruck,24
-7a99edc6-1a16-452f-a0a8-225c822ba532,Jean-Marie Halsdorf,Halsdorf,Jean-Marie,CSV,1957-02-01,Luxembourg,25
-d3339529-8719-45cd-8f51-3a62767ad80a,Jean-Paul Schaaf,Schaaf,Jean-Paul,CSV,1965-12-04,Ettelbruck,26
-06f30309-575e-43ed-90bd-6f11792d5c5c,Nancy Arendt épouse Kemp,Arendt épouse Kemp,Nancy,CSV,1969-05-22,Esch/Alzette,27
-0b696761-361a-496b-9e7c-26a67451df35,Marc Spautz,Spautz,Marc,CSV,1963-04-10,Esch-sur-Alzette,28
-61db752f-2dd7-4402-be57-0947b68f00dd,Sven Clement,Clement,Sven,Piraten,,"",29
-8026c6b8-1451-4873-98d8-91c59911d60a,Marc Goergen,Goergen,Marc,Piraten,,"",30
-19387fcf-d9b4-45dd-b4e9-6f2a5e94d018,Stéphanie Empain,Empain,Stéphanie,déi gréng,,"",33
-3a251e9f-4f41-49e3-878a-dbd5f59bda84,François Benoy,Benoy,François,déi gréng,,"",34
-f502bcc1-0b07-4052-a885-6c821ef23b6f,Josée Lorsché,Lorsché,Josée,déi gréng,1961-09-09,Dudelange,35
-b3059f80-4736-441b-a02b-68359532ef81,Djuna Bernard,Bernard,Djuna,déi gréng,,"",36
-d92fa41a-5be8-443f-9d94-8c26b582820a,Tess Burton,Burton,Tess,LSAP,1985-06-10,Luxembourg,37
-3e6d82b4-b3ba-4468-86e2-df5a75b0fe51,Mars Di Bartolomeo,Di Bartolomeo,Mars,LSAP,1952-06-27,Dudelange,38
-eb71ac23-fa2c-40ba-bb5c-f2d9852149de,Georges Engel,Engel,Georges,LSAP,1968-09-07,Differdange,39
-7ce84bf7-9052-4e5f-a46e-706af14037a0,Dan Biancalana,Biancalana,Dan,LSAP,,"",40
-e3dddd18-b968-40de-852c-8a40d95b2d73,Francine Closener,Closener,Francine,LSAP,1969-12-29,Steinfort,41
-eafed890-f5f4-46e8-a9e6-a958a4f7b370,Guy Arendt,Arendt,Guy,DP,,"",42
-1a8ca350-39f4-4655-9899-fe86ac04c526,André Bauler,Bauler,André,DP,1964-02-05,Ettelbruck,43
-352e6ffb-e8a3-493e-8211-f4a84df449b5,Simone Beissel,Beissel,Simone,DP,1953-04-27,Luxembourg,44
-9a28aeb1-c183-4c11-b224-ad339ea06c05,Gilles Baum,Baum,Gilles,DP,1973-01-16,Luxembourg,45
-f316fdc6-4c01-4057-8244-49877f9ae636,Max Hahn,Hahn,Max,DP,1981-04-30,Luxembourg,46
-a7fe5e53-06d3-48ab-b7a1-e5b5d799796c,Lydie Polfer,Polfer,Lydie,DP,1952-11-22,Luxembourg,47
-c6d475c6-0f56-4073-ae5f-2018a192a92d,Marc Hansen,Hansen,Marc,déi gréng,,"",49
-79370fa2-8fb8-4eb8-8098-3d8e9d9163df,Semiray Ahmedova,Ahmedova,Semiray,déi gréng,1981-04-21,Sofia (BG),50
-247de0a6-40ec-4564-8870-0b5b6a259dcc,Charles Margue,Margue,Charles,déi gréng,,"",51
-fa2f364d-83f2-42f0-9020-cf9c0b79ca1d,Chantal Gary,Gary,Chantal,déi gréng,,Luxembourg-Ville,52
-2a66d238-3815-432a-90c9-c15e9646a4b9,Carlo Back,Back,Carlo,déi gréng,,"",53
-712d9c4e-b2f4-428b-a529-4e53bd00ed14,Claude Haagen,Haagen,Claude,LSAP,1962-05-18,Luxembourg,54
-86f77bc8-88a0-44a8-8f0b-83008559719c,Lydia Mutsch,Mutsch,Lydia,LSAP,,"",55
-3323d906-3583-486d-a0a4-86d889c3073d,Yves Cruchten,Cruchten,Yves,LSAP,1975-05-01,Pétange,56
-22cf247a-c21b-44be-b58d-6ea451d6ba07,Simone Asselborn-Bintz,Asselborn-Bintz,Simone,LSAP,1966-01-24,Esch-sur-Alzette,57
-1bb94086-ac57-4c2a-82f4-219c089c4797,Cécile Hemmen,Hemmen,Cécile,LSAP,1955-11-06,Luxembourg,58
-76f975f7-2d89-46ea-95b0-31adfd08e030,Carole Hartmann,Hartmann,Carole,DP,,"",59
-a9e1d1fa-1951-49ce-988e-29a40285458a,Claude Lamberty,Lamberty,Claude,DP,1976-09-24,Luxembourg,60
-d498b4d4-f990-4297-b9af-33f51765fc63,Frank Colabianchi,Colabianchi,Frank,DP,1962-10-27,Luxembourg,61
-d74b215c-27b6-443d-b3b9-7eac661eb0a3,Pim Knaff,Knaff,Pim,DP,1965-10-08,Esch-sur-Alzette,62
-c5d9698d-2854-476e-953d-a5fc33449e85,Gusty Graas,Graas,Gusty,DP,1957-09-14,Bettembourg,63
-3e56958e-9e1f-4122-bea4-82f7df0af2de,Lex Delles,Delles,Lex,DP,,"",100
-3a50302e-edae-4986-94ea-7b80291cde8e,Sam Tanson,Tanson,Sam,déi gréng,,"",101
-592c1730-7327-4bba-9b8f-ce25bb7835f8,Claude Turmes,Turmes,Claude,déi gréng,,"",102
-6514e310-bbe7-4e0c-ac03-f58aefa93c27,Carole Dieschbourg,Dieschbourg,Carole,déi gréng,,"",103
-2b721d2f-11ef-4d70-a6cc-ad17acb56f33,Claude Meisch,Meisch,Claude,DP,,"",104
-39e3e43e-dcba-4bda-b3be-a3f256322e10,Corinne Cahen,Cahen,Corinne,DP,,"",105
-41495b46-e8ab-4e54-b298-2ead309533af,Marc Hansen,Hansen,Marc,DP,,"",106
-dba444e2-1715-4bbf-89d6-de98f782caf6,Paulette Lenert,Lenert,Paulette,LSAP,,"",107
-412521db-ce32-43a2-a55a-9df7dc79190d,Taina Bofferding,Bofferding,Taina,LSAP,,"",108
-6099b828-93a6-462a-82fe-2cdcd3c15707,Henri Kox,Kox,Henri,déi gréng,,"",109
-6c644b33-854d-493f-8030-962bade1987a,Pierre Gramegna,Gramegna,Pierre,DP,,"",110
-f46ad3c6-80a2-4157-a3e9-4d7a80f74775,Romain Schneider,Schneider,Romain,LSAP,,"",111
-0398f091-8f7a-4cc9-911d-6cc1ef8338d5,Franz Fayot,Fayot,Franz,LSAP,,"",112
-ab56272d-fa07-4997-8b64-f65d2cf96936,Xavier Bettel,Bettel,Xavier,DP,,"",113
-9e539781-0a82-4c35-a834-3a7548c32368,François Bausch,Bausch,François,déi gréng,,"",114
-e9aa7630-c9a6-4d75-88bb-b6b027dd808c,Jean Asselborn,Asselborn,Jean,LSAP,,"",115
-580a351e-8d06-4131-a8b6-da893975a34c,Dan Kersch,Kersch,Dan,LSAP,,"",116
+uuid,name,lastname,firstname,group,portfolios,dob,birthplace,seat
+e91b6cc6-3e4d-4b88-adfc-448ef4077a11,Fernand Etgen,Etgen,Fernand,DP,"",,"",0
+b891e5e6-f691-4356-bb7a-a081822bf658,Jeff Engelen,Engelen,Jeff,ADR,"",,"",1
+d22dce2f-74f9-46fa-bd68-9bfda2341a44,Fred Keup,Keup,Fred,ADR,"",,"",2
+1176aa74-e97d-4605-bbc8-e06f45ac1263,Paul Galles,Galles,Paul,CSV,"",,"",3
+003db1c3-5579-403e-b31b-39d4a99c33a7,Diane Adehm,Adehm,Diane,CSV,"",1970-09-13,Ettelbruck,4
+4009819c-f380-456a-b5d1-05f8a88a3aa9,Emile Eicher,Eicher,Emile,CSV,"",1955-06-30,Clervaux,5
+7d10a6e1-3d8b-4bf6-9a1e-4f851a2a94fc,Viviane Reding,Reding,Viviane,CSV,"",,"",6
+01355edf-9d51-4d5f-83e3-7a91e737ccf0,Françoise Hetto-Gaasch,Hetto-Gaasch,Françoise,CSV,"",1960-05-21,Dudelange,7
+9b963db4-77a9-4424-9de8-12fd1ae789ac,Octavie Modert,Modert,Octavie,CSV,"",1966-11-15,Grevenmacher,8
+86f5ceb2-b63c-4fe5-b6d4-725ae32e9631,Aly Kaes,Kaes,Aly,CSV,"",1955-04-04,Diekirch,9
+31a996f1-bf01-453d-abcf-cb6ccc0a8fed,Félix Eischen,Eischen,Félix,CSV,"",1966-02-05,Luxembourg,10
+3945714c-4f6f-4332-92d2-4ea108fdd1eb,Marc Lies,Lies,Marc,CSV,"",1968-12-30,Echternach,11
+0cd81592-56e5-4c50-ad03-41c8e0c7b179,Serge Wilmes,Wilmes,Serge,CSV,"",1982-05-06,Luxembourg,12
+7029477e-b348-497e-93bc-3922f3119ea3,Georges Mischo,Mischo,Georges,CSV,"",,"",13
+f86cd469-b3e0-4d9c-b51a-aa813163b49f,Myriam Cecchetti,Cecchetti,Myriam,DÉI LÉNK,"",1966-03-23,Esch-sur-Alzette,14
+844dc4ba-88af-4904-826b-6679c209d963,Nathalie Oberweis,Oberweis,Nathalie,DÉI LÉNK,"",1983-02-20,Luxembourg,15
+a5822008-b762-4228-ab23-ecd365a848af,Fernand Kartheiser,Kartheiser,Fernand,ADR,"",1959-09-30,Luxembourg,17
+59f6b8a5-08ba-45eb-86e4-db93f6998b80,Roy Reding,Reding,Roy,ADR,"",1965-07-17,Luxembourg,18
+cfbc3034-7695-4a32-8d62-b74482c108ff,Claude Wiseler,Wiseler,Claude,CSV,"",1960-01-30,Luxembourg,19
+a9842785-fe2b-4203-aaf1-3d7a62c7edf8,Laurent Mosar,Mosar,Laurent,CSV,"",1958-02-08,Luxembourg,20
+a5e10561-7d18-41f8-9c68-6668f60a817e,Michel Wolter,Wolter,Michel,CSV,"",1962-09-13,Luxembourg,21
+04c85412-9f8c-4547-899c-4d75d1a39f6b,Gilles Roth,Roth,Gilles,CSV,"",1967-03-01,Luxembourg,22
+34c3571c-db36-44f0-98f3-abac62763d99,Martine Hansen,Hansen,Martine,CSV,"",1965-12-10,Wiltz,23
+41888d71-80ce-4d3e-b5b8-06915a25cc6b,Léon Gloden,Gloden,Léon,CSV,"",1972-12-09,Ettelbruck,24
+7a99edc6-1a16-452f-a0a8-225c822ba532,Jean-Marie Halsdorf,Halsdorf,Jean-Marie,CSV,"",1957-02-01,Luxembourg,25
+d3339529-8719-45cd-8f51-3a62767ad80a,Jean-Paul Schaaf,Schaaf,Jean-Paul,CSV,"",1965-12-04,Ettelbruck,26
+06f30309-575e-43ed-90bd-6f11792d5c5c,Nancy Arendt épouse Kemp,Arendt épouse Kemp,Nancy,CSV,"",1969-05-22,Esch/Alzette,27
+0b696761-361a-496b-9e7c-26a67451df35,Marc Spautz,Spautz,Marc,CSV,"",1963-04-10,Esch-sur-Alzette,28
+61db752f-2dd7-4402-be57-0947b68f00dd,Sven Clement,Clement,Sven,Piraten,"",,"",29
+8026c6b8-1451-4873-98d8-91c59911d60a,Marc Goergen,Goergen,Marc,Piraten,"",,"",30
+19387fcf-d9b4-45dd-b4e9-6f2a5e94d018,Stéphanie Empain,Empain,Stéphanie,déi gréng,"",,"",33
+3a251e9f-4f41-49e3-878a-dbd5f59bda84,François Benoy,Benoy,François,déi gréng,"",,"",34
+f502bcc1-0b07-4052-a885-6c821ef23b6f,Josée Lorsché,Lorsché,Josée,déi gréng,"",1961-09-09,Dudelange,35
+b3059f80-4736-441b-a02b-68359532ef81,Djuna Bernard,Bernard,Djuna,déi gréng,"",,"",36
+d92fa41a-5be8-443f-9d94-8c26b582820a,Tess Burton,Burton,Tess,LSAP,"",1985-06-10,Luxembourg,37
+3e6d82b4-b3ba-4468-86e2-df5a75b0fe51,Mars Di Bartolomeo,Di Bartolomeo,Mars,LSAP,"",1952-06-27,Dudelange,38
+eb71ac23-fa2c-40ba-bb5c-f2d9852149de,Georges Engel,Engel,Georges,LSAP,"",1968-09-07,Differdange,39
+7ce84bf7-9052-4e5f-a46e-706af14037a0,Dan Biancalana,Biancalana,Dan,LSAP,"",,"",40
+e3dddd18-b968-40de-852c-8a40d95b2d73,Francine Closener,Closener,Francine,LSAP,"",1969-12-29,Steinfort,41
+eafed890-f5f4-46e8-a9e6-a958a4f7b370,Guy Arendt,Arendt,Guy,DP,"",,"",42
+1a8ca350-39f4-4655-9899-fe86ac04c526,André Bauler,Bauler,André,DP,"",1964-02-05,Ettelbruck,43
+352e6ffb-e8a3-493e-8211-f4a84df449b5,Simone Beissel,Beissel,Simone,DP,"",1953-04-27,Luxembourg,44
+9a28aeb1-c183-4c11-b224-ad339ea06c05,Gilles Baum,Baum,Gilles,DP,"",1973-01-16,Luxembourg,45
+f316fdc6-4c01-4057-8244-49877f9ae636,Max Hahn,Hahn,Max,DP,"",1981-04-30,Luxembourg,46
+a7fe5e53-06d3-48ab-b7a1-e5b5d799796c,Lydie Polfer,Polfer,Lydie,DP,"",1952-11-22,Luxembourg,47
+c6d475c6-0f56-4073-ae5f-2018a192a92d,Marc Hansen,Hansen,Marc,déi gréng,"",,"",49
+79370fa2-8fb8-4eb8-8098-3d8e9d9163df,Semiray Ahmedova,Ahmedova,Semiray,déi gréng,"",1981-04-21,Sofia (BG),50
+247de0a6-40ec-4564-8870-0b5b6a259dcc,Charles Margue,Margue,Charles,déi gréng,"",,"",51
+fa2f364d-83f2-42f0-9020-cf9c0b79ca1d,Chantal Gary,Gary,Chantal,déi gréng,"",,Luxembourg-Ville,52
+2a66d238-3815-432a-90c9-c15e9646a4b9,Carlo Back,Back,Carlo,déi gréng,"",,"",53
+712d9c4e-b2f4-428b-a529-4e53bd00ed14,Claude Haagen,Haagen,Claude,LSAP,"",1962-05-18,Luxembourg,54
+86f77bc8-88a0-44a8-8f0b-83008559719c,Lydia Mutsch,Mutsch,Lydia,LSAP,"",,"",55
+3323d906-3583-486d-a0a4-86d889c3073d,Yves Cruchten,Cruchten,Yves,LSAP,"",1975-05-01,Pétange,56
+22cf247a-c21b-44be-b58d-6ea451d6ba07,Simone Asselborn-Bintz,Asselborn-Bintz,Simone,LSAP,"",1966-01-24,Esch-sur-Alzette,57
+1bb94086-ac57-4c2a-82f4-219c089c4797,Cécile Hemmen,Hemmen,Cécile,LSAP,"",1955-11-06,Luxembourg,58
+76f975f7-2d89-46ea-95b0-31adfd08e030,Carole Hartmann,Hartmann,Carole,DP,"",,"",59
+a9e1d1fa-1951-49ce-988e-29a40285458a,Claude Lamberty,Lamberty,Claude,DP,"",1976-09-24,Luxembourg,60
+d498b4d4-f990-4297-b9af-33f51765fc63,Frank Colabianchi,Colabianchi,Frank,DP,"",1962-10-27,Luxembourg,61
+d74b215c-27b6-443d-b3b9-7eac661eb0a3,Pim Knaff,Knaff,Pim,DP,"",1965-10-08,Esch-sur-Alzette,62
+c5d9698d-2854-476e-953d-a5fc33449e85,Gusty Graas,Graas,Gusty,DP,"",1957-09-14,Bettembourg,63
+3e56958e-9e1f-4122-bea4-82f7df0af2de,Lex Delles,Delles,Lex,DP,Ministre des Classes moyennes Ministre du Tourisme,,"",100
+3a50302e-edae-4986-94ea-7b80291cde8e,Sam Tanson,Tanson,Sam,déi gréng,Ministre de la Culture Ministre de la Justice,,"",101
+592c1730-7327-4bba-9b8f-ce25bb7835f8,Claude Turmes,Turmes,Claude,déi gréng,Ministre de l'Energie Ministre de l'Aménagement du Territoire,,"",102
+6514e310-bbe7-4e0c-ac03-f58aefa93c27,Carole Dieschbourg,Dieschbourg,Carole,déi gréng,"Ministre de l'Environnement, du Climat et du Développement durable",,"",103
+2b721d2f-11ef-4d70-a6cc-ad17acb56f33,Claude Meisch,Meisch,Claude,DP,"Ministre de l'Education nationale, de l'Enfance et de la Jeunesse Ministre de l'Enseignement supérieur et de la Recherche",,"",104
+39e3e43e-dcba-4bda-b3be-a3f256322e10,Corinne Cahen,Cahen,Corinne,DP,Ministre de la Famille et de l'Intégration Ministre de la Grande Région,,"",105
+41495b46-e8ab-4e54-b298-2ead309533af,Marc Hansen,Hansen,Marc,DP,Ministre de la Fonction publique Ministre aux Relations avec le Parlement Ministre délégué à la Digitalisation Ministre délégué à la Réforme administrative,,"",106
+dba444e2-1715-4bbf-89d6-de98f782caf6,Paulette Lenert,Lenert,Paulette,LSAP,Ministre de la Protection des consommateurs Ministre de la Santé Ministre déléguée de la Sécurité sociale,,"",107
+412521db-ce32-43a2-a55a-9df7dc79190d,Taina Bofferding,Bofferding,Taina,LSAP,Ministre de l'Intérieur Ministre de l'Égalité entre les femmes et les hommes,,"",108
+6099b828-93a6-462a-82fe-2cdcd3c15707,Henri Kox,Kox,Henri,déi gréng,Ministre du Logement Ministre de la Sécurité intérieure,,"",109
+6c644b33-854d-493f-8030-962bade1987a,Pierre Gramegna,Gramegna,Pierre,DP,Ministre des Finances,,"",110
+f46ad3c6-80a2-4157-a3e9-4d7a80f74775,Romain Schneider,Schneider,Romain,LSAP,"Ministre de l'Agriculture, de la Viticulture et du Développement rural Ministre de la Sécurité sociale",,"",111
+0398f091-8f7a-4cc9-911d-6cc1ef8338d5,Franz Fayot,Fayot,Franz,LSAP,Ministre de l'Économie Ministre de la Coopération et de l'Action humanitaire,,"",112
+ab56272d-fa07-4997-8b64-f65d2cf96936,Xavier Bettel,Bettel,Xavier,DP,"Premier Ministre, Ministre d'Etat Ministre des Communications et des Médias Ministre des Cultes Ministre de la Digitalisation Ministre de la Réforme administrative",,"",113
+9e539781-0a82-4c35-a834-3a7548c32368,François Bausch,Bausch,François,déi gréng,Ministre de la Défense Ministre de la Mobilité et des Travaux publics,,"",114
+e9aa7630-c9a6-4d75-88bb-b6b027dd808c,Jean Asselborn,Asselborn,Jean,LSAP,Ministre de l'Immigration et de l'Asile Ministre des Affaires étrangères et européennes,,"",115
+580a351e-8d06-4131-a8b6-da893975a34c,Dan Kersch,Kersch,Dan,LSAP,"Ministre des Sports Ministre du Travail, de l'Emploi et de l'Economie sociale et solidaire",,"",116

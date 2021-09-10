@@ -28,6 +28,10 @@ class Legislature
       noko.css('.group').text.tidy
     end
 
+    field :portfolios do
+      noko.css('.portfolios').text.tidy
+    end
+
     field :dob do
       return unless birthdate[/(\d\d)\/(\d\d)\/(\d\d\d\d)/]
 
