@@ -15,8 +15,8 @@
         "url":   "https://www.chd.lu/wps/portal/public/Accueil/OrganisationEtFonctionnement/Organisation/Deputes/SchemaSallePleniere",
         "title": "Chambre des Députés du Grand-Duché de Luxembourg",
         "lang":  {
-            "code": "fr",
-            "wikidata": "Q150"
+            "code": "lb",
+            "wikidata": "Q9051"
         }
     },
     "agent": "every-politican-scrapers/luxembourg-deputes"
