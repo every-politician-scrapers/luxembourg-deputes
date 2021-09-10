@@ -1,65 +1,14 @@
 @@,name,group
-->,Yves Cruchten,NULL->LSAP
-->,Viviane Reding,NULL->CSV
-->,Tess Burton,NULL->LSAP
-->,Sven Clement,NULL->Piraten
-->,Stéphanie Empain,NULL->déi gréng
-->,Simone Beissel,NULL->DP
-->,Simone Asselborn-Bintz,NULL->LSAP
-->,Serge Wilmes,NULL->CSV
-->,Semiray Ahmedova,NULL->déi gréng
-->,Roy Reding,NULL->ADR
-->,Paul Galles,NULL->CSV
-->,Octavie Modert,NULL->CSV
-->,Michel Wolter,NULL->CSV
-->,Max Hahn,NULL->DP
-->,Martine Hansen,NULL->CSV
-->,Mars Di Bartolomeo,NULL->LSAP
-->,Marc Spautz,NULL->CSV
-->,Marc Lies,NULL->CSV
-->,Marc Goergen,NULL->Piraten
-->,Léon Gloden,NULL->CSV
-->,Lydie Polfer,NULL->DP
-->,Lydia Mutsch,NULL->LSAP
-->,Laurent Mosar,NULL->CSV
-->,Josée Lorsché,NULL->déi gréng
-->,Jeff Engelen,NULL->ADR
-->,Jean-Marie Halsdorf,NULL->CSV
-->,Guy Arendt,NULL->DP
-->,Gusty Graas,NULL->DP
-->,Gilles Roth,NULL->CSV
-->,Gilles Baum,NULL->DP
-->,Georges Mischo,NULL->CSV
-->,Georges Engel,NULL->LSAP
-->,Félix Eischen,NULL->CSV
-->,Fred Keup,NULL->ADR
-->,François Benoy,NULL->déi gréng
-->,Frank Colabianchi,NULL->DP
-->,Francine Closener,NULL->LSAP
-->,Fernand Kartheiser,NULL->ADR
-->,Emile Eicher,NULL->CSV
-->,Djuna Bernard,NULL->déi gréng
-->,Diane Adehm,NULL->CSV
-->,Dan Biancalana,NULL->LSAP
-->,Cécile Hemmen,NULL->LSAP
-->,Claude Wiseler,NULL->CSV
-->,Claude Lamberty,NULL->DP
-->,Claude Haagen,NULL->LSAP
-->,Charles Margue,NULL->déi gréng
-->,Chantal Gary,NULL->déi gréng
-->,Carole Hartmann,NULL->DP
-->,Carlo Back,NULL->déi gréng
-->,André Bauler,NULL->DP
----,Pierre-Marc Knaff,
----,Nancy Arendt,
----,Marco Schank,
----,Marc Hansen,
----,Marc Baum,
----,Françoise Hetto,
----,David Wagner,
----,Ali Kaes,
+->,Roy Reding,LSAP->ADR
+---,Pierre-Marc Knaff,DP
+---,Nancy Arendt,CSV
+---,Marco Schank,CSV
+---,Françoise Hetto,CSV
+---,Ali Kaes,CSV
 +++,Xavier Bettel,DP
 +++,Taina Bofferding,LSAP
++++,Stéphanie Empain,déi gréng
++++,Semiray Ahmedova,déi gréng
 +++,Sam Tanson,déi gréng
 +++,Romain Schneider,LSAP
 +++,Pim Knaff,DP
@@ -71,16 +20,25 @@
 +++,Marc Hansen,DP
 +++,Marc Hansen,déi gréng
 +++,Lex Delles,DP
++++,Josée Lorsché,déi gréng
++++,Jeff Engelen,ADR
 +++,Jean-Paul Schaaf,CSV
 +++,Jean Asselborn,LSAP
 +++,Henri Kox,déi gréng
++++,Fred Keup,ADR
 +++,Françoise Hetto-Gaasch,CSV
++++,François Benoy,déi gréng
 +++,François Bausch,déi gréng
 +++,Franz Fayot,LSAP
++++,Fernand Kartheiser,ADR
 +++,Fernand Etgen,DP
++++,Djuna Bernard,déi gréng
 +++,Dan Kersch,LSAP
 +++,Corinne Cahen,DP
 +++,Claude Turmes,déi gréng
 +++,Claude Meisch,DP
++++,Charles Margue,déi gréng
++++,Chantal Gary,déi gréng
 +++,Carole Dieschbourg,déi gréng
++++,Carlo Back,déi gréng
 +++,Aly Kaes,CSV
