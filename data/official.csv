@@ -1,4 +1,4 @@
-uuid,name,lastname,firstname,group,portfolios,dob,birthplace,seat
+uuid,name,lastname,firstname,group,portfolios,birth_date,birthplace,seat
 e91b6cc6-3e4d-4b88-adfc-448ef4077a11,Fernand Etgen,Etgen,Fernand,DP,"",,"",0
 b891e5e6-f691-4356-bb7a-a081822bf658,Jeff Engelen,Engelen,Jeff,ADR,"",,"",1
 d22dce2f-74f9-46fa-bd68-9bfda2341a44,Fred Keup,Keup,Fred,ADR,"",,"",2

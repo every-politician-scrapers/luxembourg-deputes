@@ -3,7 +3,7 @@ let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
 module.exports = function () {
-  return `SELECT ?item ?name ?party ?group
+  return `SELECT ?item ?name ?party ?group ?gender ?dob ?dobPrecision
          (STRAFTER(STR(?statement), '/statement/') AS ?psid)
     WHERE
     {
@@ -25,6 +25,17 @@ module.exports = function () {
       }
       OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "${meta.source.lang.code}") }
       BIND(COALESCE(?sourceName, ?wdLabel) AS ?name)
+
+      OPTIONAL { ?item wdt:P21 ?genderItem }
+      OPTIONAL { # truthiest DOB, with precison
+        ?item p:P569 ?ts .
+        ?ts a wikibase:BestRank .
+        ?ts psv:P569 [wikibase:timeValue ?dob ; wikibase:timePrecision ?dobPrecision] .
+      }
+      SERVICE wikibase:label {
+        bd:serviceParam wikibase:language "en".
+        ?genderItem rdfs:label ?gender
+      }
     }
     ORDER BY ?item`
 }

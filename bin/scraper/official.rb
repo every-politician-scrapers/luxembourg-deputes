@@ -32,8 +32,8 @@ class Legislature
       noko.css('.portfolios').text.tidy
     end
 
-    field :dob do
-      return unless birthdate[/(\d\d)\/(\d\d)\/(\d\d\d\d)/]
+    field :birth_date do
+      return unless dob[/(\d\d)\/(\d\d)\/(\d\d\d\d)/]
 
       Regexp.last_match.captures.reverse.join('-')
     end
@@ -48,7 +48,7 @@ class Legislature
 
     private
 
-    def birthdate
+    def dob
       noko.css('.birthdate').text.tidy
     end
   end
