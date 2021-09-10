@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+      "name": "Luxembourg",
+      "id": "Q32"
+    },
+    "legislature": {
+      "id": "Q517449",
+      "member": "Q21328592",
+      "term": {
+        "id": "Q59944231",
+        "start": "2018-10-30"
+      }
+    },
+    "source": {
+        "url":   "https://www.chd.lu/wps/portal/public/Accueil/OrganisationEtFonctionnement/Organisation/Deputes/SchemaSallePleniere",
+        "title": "Chambre des Députés du Grand-Duché de Luxembourg",
+        "lang":  {
+            "code": "fr",
+            "wikidata": "Q150"
+        }
+    },
+    "agent": "every-politican-scrapers/luxembourg-deputes"
+}
