@@ -33,7 +33,7 @@ class Legislature
     end
 
     field :birth_date do
-      return unless dob[/(\d\d)\/(\d\d)\/(\d\d\d\d)/]
+      return unless dob[%r{(\d\d)/(\d\d)/(\d\d\d\d)}]
 
       Regexp.last_match.captures.reverse.join('-')
     end
@@ -57,8 +57,8 @@ class Legislature
   class Members < Scraped::HTML
     field :members do
       member_container.map { |member| fragment(member => Member) }
-        .reject { |mem| mem.uuid.empty? }
-        .sort_by(&:seat).map(&:to_h).uniq
+                      .reject { |mem| mem.uuid.empty? }
+                      .sort_by(&:seat).map(&:to_h).uniq
     end
 
     private
